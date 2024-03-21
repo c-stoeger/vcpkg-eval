@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    {
+      "name": "fmt"
+    },
+    {
+      "name": "zlib"
+    }
+  ],
+  "overrides": [
+    { "name": "fmt", "version": "7.1.3" },
+    { "name": "zlib", "version": "1.2.13" }
+  ]
+}
